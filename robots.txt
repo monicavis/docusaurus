@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /private/
+Disallow: /blog/
+Disallow: /admin/
+Disallow: /cgi-bin/
+Disallow: /tmp/
+Disallow: /temp/
+Disallow: /log/
+Disallow: /logs/
+Disallow: /cache/
+Disallow: /wp-admin/
+Disallow: /wp-content/plugins/
+Disallow: /wp-includes/
+
+Sitemap: http://estuatedocs.com/sitemap.xml
